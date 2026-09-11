@@ -28,7 +28,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **1** | born2beroot | Introduction to system administration, virtualization, and strict, secure server configuration using Debian, LVM, and SSH. |
 
-| **2** | push_swap | A highly optimized data sorting algorithm utilizing two stacks. | [push_swap](https://www.) |
+| **2** | push_swap | A highly optimized data sorting algorithm utilizing two stacks. | [push_swap](https://github.com/ade-projects/push_swap.git) |
 
 | **2** | minitalk | A small client-server data exchange program utilizing UNIX signals. | [minitalk](https://www.) |
 
