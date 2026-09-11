@@ -40,7 +40,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **4** | netpractice | General network configuration, subnets, and routing exercises. |
 
-| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://github.com/ade-projects/.git) |
+| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://github.com/ade-projects/cub3D.git) |
 
 | **4** | c++ modules 00-04 | Core OOP concepts, canonical forms, deep copying and polymorphism. | [cpp 00-04](https://github.com/ade-projects/.git) |
 
