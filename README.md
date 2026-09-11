@@ -22,7 +22,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **0** | Libft | Custom implementation of essential C standard library functions. | [libft](https://github.com/ade-projects/libft.git) |
 
-| **1** | ft_printf | A custom, extensible implementation of the standard printf function. | [ft_printf](https://www.) |
+| **1** | ft_printf | A custom, extensible implementation of the standard printf function. | [ft_printf](https://github.com/ade-projects/ft_printf.git) |
 
 | **1** | get_next_line | A robust utility function that reads a file descriptor line by line. | [get_next_line](https://github.com/ade-projects/get_next_line.git) |
 
