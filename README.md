@@ -32,7 +32,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **2** | minitalk | A small client-server data exchange program utilizing UNIX signals. | [minitalk](https://github.com/ade-projects/minitalk.git) |
 
-| **2** | so_long | A small 2D graphical game utilizing the MiniLibX library. | [so_long](https://www.) |
+| **2** | so_long | A small 2D graphical game utilizing the MiniLibX library. | [so_long](https://github.com/ade-projects/so_long.git) |
 
 | **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. | [minishell](https://www.) |
 
