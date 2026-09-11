@@ -36,7 +36,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. | [minishell](https://github.com/ade-projects/minishell.git) |
 
-| **3** | philosophers | An introduction to multithreading, mutexes, and process synchronization. | [philosophers](https://github.com/ade-projects/.git) |
+| **3** | philosophers | An introduction to multithreading, mutexes, and process synchronization. | [philosophers](https://github.com/ade-projects/philosophers.git) |
 
 | **4** | netpractice | General network configuration, subnets, and routing exercises. |
 
