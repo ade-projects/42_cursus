@@ -42,15 +42,15 @@ Below is a structured overview of the core curriculum projects.
 
 | **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://github.com/ade-projects/cub3D.git) |
 
-| **4** | c++ modules 00-04 | Core OOP concepts, canonical forms, deep copying and polymorphism. | [cpp 00-04](https://github.com/ade-projects/.git) |
+| **4** | C++ Module 00 | Introduction to object-oriented programming in C++98, focusing on namespaces, classes, and stdio streams. | [cpp_00](https://github.com/ade-projects/cpp_00.git) |
 
-| **5** | c++ modules 05-09 | Advanced C++98 features, exception handling, and STL containers. | [cpp 05-09](https://github.com/ade-projects/.git) |
+| **4** | C++ Module 01 | Deep memory management, dynamic allocation, pointers to members, and references. | [cpp_01](https://github.com/ade-projects/cpp_01.git) |
 
-| **5** | inception | A system administration and virtualization project using Docker Compose. | [inception](https://github.com/ade-projects/.git) |
+| **4** | C++ Module 02 | Ad-hoc polymorphism, fixed-point arithmetic overloads, and strict Canonical Orthodox Form design. | [cpp_02](https://github.com/ade-projects/cpp_02.git) |
 
-| **5** | webserv | A custom, fully compliant HTTP web server written in C++. | [webserv](https://github.com/ade-projects/.git) |
+| **4** | C++ Module 03 | Class inheritance, proper construction/destruction chaining, and multiple inheritance complexities. | [cpp_03](https://github.com/ade-projects/cpp_03.git) |
 
-| **6** | ft_transcendence | The final full-stack web application. | [ft_transcendence](https://github.com/ade-projects/.git) |
+| **4** | C++ Module 04 | Subtype polymorphism, abstract classes with pure virtual functions, and safe deep copying mechanics. | [cpp_04](https://github.com/ade-projects/cpp_04.git) |
 
 ---
 
