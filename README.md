@@ -34,23 +34,23 @@ Below is a structured overview of the core curriculum projects.
 
 | **2** | so_long | A small 2D graphical game utilizing the MiniLibX library. | [so_long](https://github.com/ade-projects/so_long.git) |
 
-| **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. | [minishell](https://www.) |
+| **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. | [minishell](https://github.com/ade-projects/minishell.git) |
 
-| **3** | philosophers | An introduction to multithreading, mutexes, and process synchronization. | [philosophers](https://www.) |
+| **3** | philosophers | An introduction to multithreading, mutexes, and process synchronization. | [philosophers](https://github.com/ade-projects/.git) |
 
 | **4** | netpractice | General network configuration, subnets, and routing exercises. |
 
-| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://www.) |
+| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://github.com/ade-projects/.git) |
 
-| **4** | c++ modules 00-04 | Core OOP concepts, canonical forms, deep copying and polymorphism. | [cpp 00-04](https://www.) |
+| **4** | c++ modules 00-04 | Core OOP concepts, canonical forms, deep copying and polymorphism. | [cpp 00-04](https://github.com/ade-projects/.git) |
 
-| **5** | c++ modules 05-09 | Advanced C++98 features, exception handling, and STL containers. | [cpp 05-09](https://www.) |
+| **5** | c++ modules 05-09 | Advanced C++98 features, exception handling, and STL containers. | [cpp 05-09](https://github.com/ade-projects/.git) |
 
-| **5** | inception | A system administration and virtualization project using Docker Compose. | [inception](https://www.) |
+| **5** | inception | A system administration and virtualization project using Docker Compose. | [inception](https://github.com/ade-projects/.git) |
 
-| **5** | webserv | A custom, fully compliant HTTP web server written in C++. | [webserv](https://www.) |
+| **5** | webserv | A custom, fully compliant HTTP web server written in C++. | [webserv](https://github.com/ade-projects/.git) |
 
-| **6** | ft_transcendence | The final full-stack web application. | [ft_transcendence](https://www.) |
+| **6** | ft_transcendence | The final full-stack web application. | [ft_transcendence](https://github.com/ade-projects/.git) |
 
 ---
 
