@@ -30,7 +30,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **2** | push_swap | A highly optimized data sorting algorithm utilizing two stacks. | [push_swap](https://github.com/ade-projects/push_swap.git) |
 
-| **2** | minitalk | A small client-server data exchange program utilizing UNIX signals. | [minitalk](https://www.) |
+| **2** | minitalk | A small client-server data exchange program utilizing UNIX signals. | [minitalk](https://github.com/ade-projects/minitalk.git) |
 
 | **2** | so_long | A small 2D graphical game utilizing the MiniLibX library. | [so_long](https://www.) |
 
