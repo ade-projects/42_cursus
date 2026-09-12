@@ -34,13 +34,13 @@ Below is a structured overview of the core curriculum projects.
 
 | **2** | so_long | A small 2D graphical game utilizing the MiniLibX library. | [so_long](https://github.com/ade-projects/so_long.git) |
 
-| **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. | [minishell](https://github.com/ade-projects/minishell.git) |
+| **3** | minishell | A fully functional, POSIX-compliant bash-like shell built from scratch. (Collaborative project) | [minishell](https://github.com/ade-projects/minishell.git) | 
 
 | **3** | philosophers | An introduction to multithreading, mutexes, and process synchronization. | [philosophers](https://github.com/ade-projects/philosophers.git) |
 
 | **4** | netpractice | General network configuration, subnets, and routing exercises. |
 
-| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. | [cub3D](https://github.com/ade-projects/cub3D.git) |
+| **4** | cub3D | A 3D raycasting engine heavily inspired by Wolfenstein 3D. (Collaborative project) | [cub3D](https://github.com/ade-projects/cub3D.git) |
 
 | **4** | C++ Module 00 | Introduction to object-oriented programming in C++98, focusing on namespaces, classes, and stdio streams. | [cpp_00](https://github.com/ade-projects/cpp_00.git) |
 
