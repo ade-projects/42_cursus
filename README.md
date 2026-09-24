@@ -52,6 +52,8 @@ Below is a structured overview of the core curriculum projects.
 
 | **4** | C++ Module 04 | Subtype polymorphism, abstract classes with pure virtual functions, and safe deep copying mechanics. | [cpp_04](https://github.com/ade-projects/cpp_04.git) |
 
+| **5** | C++ Module 05 | Exception handling, custom exceptions, and try/catch mechanics. | [cpp_05](https://github.com/ade-projects/cpp_05.git) |
+
 ---
 
 Evaluation note: every project listed here has passed strict peer-evaluation and the automated Moulinette grading system. They are designed to handle unexpected inputs safely, compile seamlessly without relinking, and execute without segmentation faults or memory leaks.
