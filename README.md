@@ -54,6 +54,8 @@ Below is a structured overview of the core curriculum projects.
 
 | **5** | C++ Module 05 | Exception handling, custom exceptions, and try/catch mechanics. | [cpp_05](https://github.com/ade-projects/cpp_05.git) |
 
+| **5** | C++ Module 06 | C++ type casting (static, reinterpret, dynamic) and type identification. | [cpp_06](https://github.com/ade-projects/cpp_06.git) |
+
 ---
 
-Evaluation note: every project listed here has passed strict peer-evaluation and the automated Moulinette grading system. They are designed to handle unexpected inputs safely, compile seamlessly without relinking, and execute without segmentation faults or memory leaks.
+Evaluation note: every project listed here has passed strict peer-evaluation and the automated grading system. They are designed to handle unexpected inputs safely, compile seamlessly without relinking, and execute without segmentation faults or memory leaks.
