@@ -56,6 +56,8 @@ Below is a structured overview of the core curriculum projects.
 
 | **5** | C++ Module 06 | C++ type casting (static, reinterpret, dynamic) and type identification. | [cpp_06](https://github.com/ade-projects/cpp_06.git) |
 
+| **5** | C++ Module 07 | C++ templates (function templates, class templates and generic programming paradigms). | [cpp_07](https://github.com/ade-projects/cpp_07.git) |
+
 ---
 
 Evaluation note: every project listed here has passed strict peer-evaluation and the automated grading system. They are designed to handle unexpected inputs safely, compile seamlessly without relinking, and execute without segmentation faults or memory leaks.
