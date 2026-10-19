@@ -58,6 +58,16 @@ Below is a structured overview of the core curriculum projects.
 
 | **5** | C++ Module 07 | C++ templates (function templates, class templates and generic programming paradigms). | [cpp_07](https://github.com/ade-projects/cpp_07.git) |
 
+| **5** | C++ Module 08 | Standard Template Library (STL) containers, iterators and algorithms. | [cpp_08](https://github.com/ade-projects/cpp_08.git) |
+
+| **5** | C++ Module 09 | Advanced STL exercises including Reverse Polish Notation and the Ford-Johnson merge-insert sort algorithm. | [cpp_09]() |
+
+| **5** | inception | A system administration and virtualization project using Docker Compose. | [inception]() |
+
+| **5** | webserv | A custom, fully compliant HTTP web server written in C++. | [webserv]() |
+
+| **5** | ft_transcendence | C++ templates (function templates, class templates and generic programming paradigms). | [ft_transcendence]() |
+
 ---
 
 Evaluation note: every project listed here has passed strict peer-evaluation and the automated grading system. They are designed to handle unexpected inputs safely, compile seamlessly without relinking, and execute without segmentation faults or memory leaks.
