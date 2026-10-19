@@ -66,7 +66,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **5** | webserv | A custom, fully compliant HTTP web server written in C++. | [webserv]() |
 
-| **5** | ft_transcendence | C++ templates (function templates, class templates and generic programming paradigms). | [ft_transcendence]() |
+| **6** | ft_transcendence | The final full-stack web application. | [ft_transcendence]() |
 
 ---
 
