@@ -60,7 +60,7 @@ Below is a structured overview of the core curriculum projects.
 
 | **5** | C++ Module 08 | Standard Template Library (STL) containers, iterators and algorithms. | [cpp_08](https://github.com/ade-projects/cpp_08.git) |
 
-| **5** | C++ Module 09 | Advanced STL exercises including Reverse Polish Notation and the Ford-Johnson merge-insert sort algorithm. | [cpp_09]() |
+| **5** | C++ Module 09 | Advanced STL exercises including Reverse Polish Notation and the Ford-Johnson merge-insert sort algorithm. | [cpp_09](https://github.com/ade-projects/cpp_09.git) |
 
 | **5** | inception | A system administration and virtualization project using Docker Compose. | [inception]() |
 
